@@ -1,0 +1,7 @@
+.App{
+  /* background-color: rgb(244, 98, 98); */
+  /* background-image: linear-gradient(to bottom ,rgb(246, 92, 92), #FF0000); */
+  background-image: url('./assets/img/bdrop.png');
+  background-position: center;
+  background-size: 15%;
+}
